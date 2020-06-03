@@ -1,5 +1,5 @@
 # Algorithm_03
-Assignment 04 - Joongsik Choi(Class03)
+Assignment 4 - Joongsik Choi(Class03)
 - - -
 
 ## Model 1
